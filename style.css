@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image: url("http://orig07.deviantart.net/2196/f/2016/298/6/6/angery_by_ultranewt-dam8zgr.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: "Quicksand", serif;
+	font-size: 50px;
+	color: White;  	
+	font-weight: 400;
+  	line-height: 60px;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+ 	text-align: center;
+  	color: hsl(95, 25%, 60%);	
+	font-size: 28px;
+  	font-weight: 100;
+}
+
